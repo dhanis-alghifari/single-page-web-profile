@@ -26,9 +26,9 @@ export default function ContactSection() {
               />
 
               <ContactItem
-                label="Github"
-                value="github.com/dhanisalghifari/"
-                icon="/github.svg"
+                label="Linkedin"
+                value="linkedin.com/in/dhanis-al-ghifari/"
+                icon="/linkedin.svg"
                 className="mt-6"
               />
 
