@@ -27,9 +27,9 @@ export default function ContactSection() {
 
               <ContactItem
                 label="Linkedin"
-                value="linkedin.com/in/dhanis-al-ghifari/"
+                value="linkedin.com/in/dhanisalghifari"
                 icon="/linkedin.svg"
-                className="mt-6"
+                className="mt-6 ml-6"
               />
 
               <ContactItem
